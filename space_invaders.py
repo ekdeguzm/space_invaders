@@ -357,7 +357,7 @@ while True: # Game runs forever, keeps on running
         lose.penup()
         lose.hideturtle()
         lose.goto(0,0)
-        lose.write("GAME OVER.", align="center", font=("Courier", 60, "normal"))
+        lose.write("GAME OVER", align="center", font=("Courier", 60, "normal"))
         break
 
 
