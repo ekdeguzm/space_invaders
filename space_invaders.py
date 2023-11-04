@@ -399,5 +399,5 @@ while True: # Game runs forever, keeps on running
         win.penup()
         win.hideturtle()
         win.goto(0,0)
-        win.write("YOU WIN!", align="center", font=("Courier", 60, "normal"))
+        win.write("YOU WIN", align="center", font=("Courier", 60, "normal"))
         break
