@@ -137,7 +137,7 @@ bullet.sety(y)
 
 # Create the player's bullet
 bullet2 = turtle.Turtle()
-bullet2.color("magenta")
+bullet2.color("yellow")
 bullet2.shape("square")
 bullet2.penup()
 bullet2.speed(0)
