@@ -6,7 +6,7 @@
 
 <p align="center">
   <a>
-    <img alt="Python" src="https://img.shields.io/badge/Python-3.8.10-green">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3.9.5-green">
   </a> 
   <a>
     <img alt="License" src="https://img.shields.io/badge/License-MIT-red">
