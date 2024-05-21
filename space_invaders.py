@@ -7,8 +7,6 @@ import math
 import random
 import platform
 
-
-
 # Set up the screen
 screen = turtle.Screen()
 screen.bgcolor("black")
@@ -19,8 +17,6 @@ screen.tracer(0) # shuts off all the screen updates
 # Register the shapes
 turtle.register_shape("files/alien2.gif")
 turtle.register_shape("files/small_ship.gif")
-
-
 
 # Draw outer border
 outer_pen = turtle.Turtle()
