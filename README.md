@@ -15,7 +15,7 @@
 
 ### Intro
 
-This is my own take on the classic space invaders retro game! I originally wrote this program when applying to the Recurse Center. I enjoyed the challenge of writing a retro video game, and I think that this project was overall a great learning experience.
+This is my interpretation of the classic space invaders game! I originally created this project to get into the Recurse Center, and I enjoyed the process so much that I continued to develop it further. Through this project, I learned a great deal and expanded my skills significantly.
 
 ## Table of Contents
 
