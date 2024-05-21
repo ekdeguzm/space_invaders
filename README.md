@@ -1,7 +1,7 @@
 # space_invaders
 
 <div align="center">
-    <img alt="Screenshot" src="./files/Screenshot 2024-05-20 at 22.49.21.png">
+    <img alt="Screenshot" src="./files/Screenshot 2024-05-20 at 22.49.21.png" height="500px">
 </div>
 
 <p align="center">
