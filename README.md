@@ -1,7 +1,7 @@
 # space_invaders
 
 <div align="center">
-    <img alt="Screenshot" src="./files/Screenshot 2024-05-20 at 22.49.21.png" height="500px">
+    <img alt="Screenshot" src="./files/Screenshot 2024-05-20 at 22.49.21.png" height="600px">
 </div>
 
 <p align="center">
@@ -24,7 +24,7 @@ This is my own take on the classic space invaders retro game! I originally wrote
 
 ## Installation
 
-Space Invaders requires no specific installation, though it does require that certain python dependencies be installed.
+Space Invaders requires no specific installation except Python.
 
 ### Dependencies
 
