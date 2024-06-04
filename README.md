@@ -32,8 +32,8 @@ Space Invaders was written using [Python 3.9.5](https://www.python.org/downloads
 
 ## License
 
-My Space Invaders project is licensed under the MIT Licence Copyright (c) 2021.
+My Space Invaders project is licensed under the MIT License Copyright (c) 2021.
 
-See the [LICENSE](https://github.com/sekerez/space_invaders/LICENSE) for information on the history of this software, terms & conditions for usage, and a DISCLAIMER OF ALL WARRANTIES.
+See the [LICENSE](https://github.com/ekdeguzm/space_invaders/LICENSE) for information on the history of this software, terms & conditions for usage, and a DISCLAIMER OF ALL WARRANTIES.
 
 All trademarks referenced herein are property of their respective holders.
